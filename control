@@ -1,0 +1,9 @@
+Package: com.adong.preferenceBundleDemo
+Name: preferenceBundleDemo
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Description: Test,Test,Test！
+Maintainer: https://www.qumi.com
+Author: adong
+Section: Tweaks
+Version: 1.2.0
